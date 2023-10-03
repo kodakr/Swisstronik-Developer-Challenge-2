@@ -6,3 +6,4 @@ In this project comparison would be made between Mumbai testnet and Swisstronik 
 2. Using RPC method `eth_getStorageAt()` the visibility of these variables(both chains) underhood was checked.
 
 ## Result
+## console log
